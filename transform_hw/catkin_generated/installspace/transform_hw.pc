@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: transform_hw
+Description: Description of transform_hw
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
